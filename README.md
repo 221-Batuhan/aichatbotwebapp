@@ -81,5 +81,5 @@ npm run dev
 - OpenAI API
 - Lucide React (icons)
 
-#Batuhan Açan - Full Stack Developer
+##Batuhan Açan - Full Stack Developer
 
