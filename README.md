@@ -81,17 +81,5 @@ npm run dev
 - OpenAI API
 - Lucide React (icons)
 
-## Environment Variables
-
-Create a `.env.local` file with the following variables:
-
-- `OPENAI_API_KEY` - Your OpenAI API key (required)
-
-## Deployment
-
-The app can be deployed to Vercel, Netlify, or any other platform that supports Next.js applications.
-
-## License
-
-MIT
+#Batuhan Açan - Full Stack Developer
 
